@@ -1,0 +1,26 @@
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.exe.config
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.exe
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.pdb
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\bin\Debug\IronBarCode.dll
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\bin\Debug\IronBarCode.xml
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csprojAssemblyReference.cache
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode_Scanner.Form1.resources
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode_Scanner.Properties.Resources.resources
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.GenerateResource.cache
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.CoreCompileInputs.cache
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.CopyComplete
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.exe
+C:\Users\mouss\source\repos\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.pdb
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.exe.config
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.exe
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\bin\Debug\Barcode Scanner.pdb
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\bin\Debug\IronBarCode.dll
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\bin\Debug\IronBarCode.xml
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode_Scanner.Form1.resources
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode_Scanner.Properties.Resources.resources
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.csproj.CopyComplete
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.exe
+C:\Users\mouss\Desktop\Barcode Scanner\Barcode Scanner\obj\Debug\Barcode Scanner.pdb
